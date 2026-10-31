@@ -1,0 +1,6 @@
+{
+  "name": "LUXE RESTAURANT — Fine Dining Experience",
+  "description": "A world-class creative luxury restaurant website featuring cinematic dining, an authentic seasonal menu, table reservations, and seamless English and Bengali bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
